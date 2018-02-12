@@ -9,7 +9,7 @@
    - Hosted NextCloud (docker run -d -p 8080:80 -v nextcloud:/var/www/html nextcloud)
 
    _TODO:_
-   - Cover sned, get, copy of Dav resource
+   - Cover send, get, copy of Dav resource
    - set and get resource properties i.e: timestamp and checksum
    - Monitor folder locally
    - Encipher local resources (several block ciphers and password salted key)
